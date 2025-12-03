@@ -53,7 +53,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/PandaFengYan/PandaFengYan/output/snake.svg" alt="Snake animation" />
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=PandaFengYan&theme=github-light)
 
 ###
 
