@@ -53,7 +53,7 @@
 
 ###
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=PandaFengYan&theme=github)
+[![GitHub Streak](https://streak-stats.demolab.com?user=PandaFengYan)](https://git.io/streak-stats)
 
 ###
 
